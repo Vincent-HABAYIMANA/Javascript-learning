@@ -2,8 +2,7 @@
 
 A simple JavaScript function that takes a sentence and returns each word with its length.
 
-## Example
-
+## Testing
 **Input:**
 Hello I am Vincent HABA
 
